@@ -1,0 +1,7 @@
+C:\Users\smail\source\repos\For\For\bin\Debug\For.exe.config
+C:\Users\smail\source\repos\For\For\bin\Debug\For.exe
+C:\Users\smail\source\repos\For\For\bin\Debug\For.pdb
+C:\Users\smail\source\repos\For\For\obj\Debug\For.csproj.AssemblyReference.cache
+C:\Users\smail\source\repos\For\For\obj\Debug\For.csproj.CoreCompileInputs.cache
+C:\Users\smail\source\repos\For\For\obj\Debug\For.exe
+C:\Users\smail\source\repos\For\For\obj\Debug\For.pdb
